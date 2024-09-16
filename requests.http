@@ -1,0 +1,9 @@
+GET https://api.chucknorris.io/jokes/random
+
+###
+
+GET https://api.chucknorris.io/jokes/categories
+
+###
+
+GET https://api.chucknorris.io/jokes/random?category={{category}}
